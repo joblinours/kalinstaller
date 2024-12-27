@@ -60,4 +60,4 @@ Dépôt Kali supprimé avec succès.
 - L'utilisation de ce script peut provoquer des conflits de versions si des paquets Kali sont installés sur une distribution Debian standard. Soyez prudent.
 
 ## Licence
-Ce script est fourni "tel quel" sans garantie. Vous êtes libre de l'utiliser, de le modifier et de le distribuer.
+Ce script est fourni "tel quel" sans garantie. Vous êtes libre de l'utiliser et/ou de le modifier.
