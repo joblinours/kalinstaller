@@ -1,4 +1,5 @@
 #!/bin/bash
+#made by Joblinours
 
 # Chemin du fichier de sources Kali
 depot_file="/etc/apt/sources.list.d/kali.list"
